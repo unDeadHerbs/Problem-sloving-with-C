@@ -157,17 +157,19 @@ Self-Check 1-9
 Self-Check 1-10
 1. What is the result of each of these division operations?
 	1a. 6/3 = 2
-	1b. 6/4 = 1.5
+	1b. 6/4 = 1
 	1c. 5/6 = 0
 	1d. 199/100 = 1
-	1e. 6/4. = 
-	1f. 199/100. = 
+	1e. 6/4. = 1.5
+	1f. 199/100. = 1.99
 
 2. What is the result of these operation?
 	2a. 6 % 3 = 0
-	2b. 6 % 4 = 
-	2c. 5 % 6 = 
-	2d. 199 % 100 = 
-	2e. 200 % 100 = 
-	2f. 201 % 100 = 
+	2b. 6 % 4 = 2
+	2c. 5 % 6 = 5
+	2d. 199 % 100 = 99 
+	2e. 200 % 100 = 0
+	2f. 201 % 100 = 1
+
+
 
